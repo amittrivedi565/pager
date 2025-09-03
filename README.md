@@ -1,5 +1,5 @@
 # pager  
-Pager is a cross-device connectivity tool, inspired by **KDE Connect** but with extra features for a seamless workflow across all your devices.  
+Pager is a cross-device connectivity tool, having features for a seamless workflow across all your devices.  
 
 ## ✨ Features  
 
