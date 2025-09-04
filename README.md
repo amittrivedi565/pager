@@ -12,3 +12,7 @@ Pager is a cross-device connectivity tool, having features for a seamless workfl
 ## Why pager?  
 
 **pager** extends the idea further by adding built-in media serving and a streamlined experience, making it easier to share, view, and stay connected across all your devices.  
+
+## Architechure Logs
+
+- **FlKT (Fast light toolkit)** - Very lightweight and simple great for simple GUI, Cross Platform support for Windows, macOS, Linux.
