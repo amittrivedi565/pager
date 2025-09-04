@@ -15,4 +15,4 @@ Pager is a cross-device connectivity tool, having features for a seamless workfl
 
 ## Architechure Logs
 
-- **FlKT (Fast light toolkit)** - Very lightweight and simple great for simple GUI, Cross Platform support for Windows, macOS, Linux.
+- **FlKT (Fast Lght Toolkit)** - Very lightweight and simple great for simple GUI, Cross Platform support for Windows, macOS, Linux.
