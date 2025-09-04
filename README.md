@@ -15,4 +15,9 @@ Pager is a cross-device connectivity tool, having features for a seamless workfl
 
 ## Architechure Logs
 
-- **FLKT (Fast Light Toolkit)** - A C++ library for GUI, very lighweight and suitable for simple GUI, Cross Platform support for Windows, macOS and Linux.
+### Qt
+- **Probably the most widely used C++ GUI framework.**  
+- **Cross-platform:** Windows, Linux, macOS, mobile.  
+- **Features:** Widgets, layouts, multimedia, networking, OpenGL integration.  
+- Uses **MOC (Meta-Object Compiler)** for signals and slots.  
+
