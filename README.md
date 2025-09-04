@@ -1,4 +1,4 @@
-<img src="app_logo.png" alt="Pager Logo" width="100%"/>
+<img src="app_logo.png" alt="Pager Logo" width="100%" height="30%"/>
 
 # pager  
 Pager is a cross-device connectivity tool, having features for a seamless workflow across all your devices.  
